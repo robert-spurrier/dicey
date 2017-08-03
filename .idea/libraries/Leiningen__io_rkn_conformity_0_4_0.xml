@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: io.rkn/conformity:0.4.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/rkn/conformity/0.4.0/conformity-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

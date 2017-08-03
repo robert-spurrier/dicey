@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/dicey/server.clj" line="90" mnemonic="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63ba5b69-60c8-4542-868b-256c1fefbed3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dicey/service.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dicey_service.edn" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/dicey_service.edn">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-718">
+              <caret line="15" column="81" lean-forward="true" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dicey/server.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="78" column="43" lean-forward="false" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/src/dicey/service.clj" />
+        <option value="$PROJECT_DIR$/src/dicey/server.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="404" />
+    <option name="width" value="1520" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dicey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dicey" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dicey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dicey" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dicey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dicey" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dicey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dicey" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dicey" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dicey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dicey" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dicey" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dicey" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dicey" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReplState" timestamp="1501724919102">{:repl-history {:ide [], :local [{:command &quot;(+ 1 1)&quot;, :offset 7, :ns &quot;dicey.server&quot;} {:command &quot;(def srv (run-dev))&quot;, :offset 19, :ns &quot;dicey.server&quot;} {:command &quot;(defn mp3-map [file]\n  (let [mp3-file (Mp3File. (.getAbsolutePath file))\n        id3v1 (.getId3v1Tag mp3-file)]\n    {:track (.getTrack id3v1)\n     :artist (.getArtist id3v1)\n     :title (.getTitle id3v1)\n     :album (.getAlbum id3v1)\n     :year (.getYear id3v1)\n     :genre (.getGenre id3v1)\n     :comment (.getComment id3v1)}))&quot;, :offset 328, :ns &quot;dicey.server&quot;} {:command &quot;(defn music-files\n  [dir]\n  (let [music-dir (clojure.java.io/file dir)]\n    (-&gt;&gt; (file-seq music-dir)\n         (map mp3-map))))&quot;, :offset 127, :ns &quot;dicey.server&quot;} {:command &quot;(take 10 (music-files \&quot;/home/robbo/Music/\&quot;))&quot;, :offset 44, :ns &quot;dicey.server&quot;} {:command &quot;(clojure.java.io/file \&quot;/home/robbo/Music\&quot;)&quot;, :offset 42, :ns &quot;dicey.server&quot;} {:command &quot;(first (file-seq (clojure.java.io/file \&quot;/home/robbo/Music\&quot;)))&quot;, :offset 61, :ns &quot;dicey.server&quot;} {:command &quot;(second (file-seq (clojure.java.io/file \&quot;/home/robbo/Music\&quot;)))&quot;, :offset 62, :ns &quot;dicey.server&quot;} {:command &quot;(def mp3? [file]\n  (.endsWith (.getAbsolutePath file) \&quot;mp3\&quot;))&quot;, :offset 61, :ns &quot;dicey.server&quot;} {:command &quot;(defn mp3? [file]\n  (.endsWith (.getAbsolutePath file) \&quot;mp3\&quot;))&quot;, :offset 62, :ns &quot;dicey.server&quot;} {:command &quot;(defn mp3-map [file]\n  (let [mp3-file (Mp3File. (.getAbsolutePath file))\n        id3v1 (.getId3v1Tag mp3-file)]\n    (println mp3-file)\n    {:track (.getTrack id3v1)\n     :artist (.getArtist id3v1)\n     :title (.getTitle id3v1)\n     :album (.getAlbum id3v1)\n     :year (.getYear id3v1)\n     :genre (.getGenre id3v1)\n     :comment (.getComment id3v1)}))&quot;, :offset 351, :ns &quot;dicey.server&quot;} {:command &quot;(defn mp3-map [file]\n  (let [mp3-file (Mp3File. (.getAbsolutePath file))\n        id3v2 (.getId3v2Tag mp3-file)]\n    (println mp3-file)\n    {:track (.getTrack id3v2)\n     :artist (.getArtist id3v2)\n     :title (.getTitle id3v2)\n     :album (.getAlbum id3v2)\n     :year (.getYear id3v2)\n     :genre-id (.getGenre id3v2)\n     :genre (.getGenreDescription id3v2)\n     :lyrics (.getLyrics id3v2)\n     :comment (.getComment id3v2)}))&quot;, :offset 427, :ns &quot;dicey.server&quot;} {:command &quot;(take 10 (music-files \&quot;/home/robbo/Music\&quot;))&quot;, :offset 43, :ns &quot;dicey.server&quot;} {:command &quot;(defn mp3-map [file]\n  (let [mp3-file (Mp3File. (.getAbsolutePath file))\n        id3v2 (.getId3v2Tag mp3-file)]\n    (println mp3-file)\n    {:track (.getTrack id3v2)\n     :artist (.getArtist id3v2)\n     :title (.getTitle id3v2)\n     :album (.getAlbum id3v2)\n     :year (.getYear id3v2)\n     :genre-id (.getGenre id3v2)\n     :genre (.getGenreDescription id3v2)\n     :comment (.getComment id3v2)}))&quot;, :offset 395, :ns &quot;dicey.server&quot;} {:command &quot;(defn mp3-map [file]\n  (let [mp3-file (Mp3File. (.getAbsolutePath file))]\n    (if-let [id3v2 (.hasId3v2Tag mp3-file)]\n      {:track (.getTrack id3v2) :artist (.getArtist id3v2) :title (.getTitle id3v2)\n       :album (.getAlbum id3v2)\n       :year (.getYear id3v2)\n       :genre-id (.getGenre id3v2)\n       :genre (.getGenreDescription id3v2)\n       :comment (.getComment id3v2)}\n      (println (str (.getAbsolutePath file) (.hasId3v1Tag mp3-file))))))&quot;, :offset 451, :ns &quot;dicey.server&quot;} {:command &quot;(defn mp3-map [file]\n  (let [mp3-file (Mp3File. (.getAbsolutePath file))]\n    (if-let [id3v2 (.getId3v2Tag mp3-file)]\n      {:track (.getTrack id3v2)\n       :artist (.getArtist id3v2)\n       :title (.getTitle id3v2)\n       :album (.getAlbum id3v2)\n       :year (.getYear id3v2)\n       :genre-id (.getGenre id3v2)\n       :genre (.getGenreDescription id3v2)\n       :comment (.getComment id3v2)}\n      (println (str (.getAbsolutePath file) (.hasId3v1Tag mp3-file))))))&quot;, :offset 465, :ns &quot;dicey.server&quot;} {:command &quot;()&quot;, :offset 1} {:command &quot;(defn mp3-map [file]\n  (try\n    (let [mp3-file (Mp3File. (.getAbsolutePath file))]\n      (if-let [id3v2 (.getId3v2Tag mp3-file)]\n        {:track (.getTrack id3v2)\n         :artist (.getArtist id3v2)\n         :title (.getTitle id3v2)\n         :album (.getAlbum id3v2)\n         :year (.getYear id3v2)\n         :genre-id (.getGenre id3v2)\n         :genre (.getGenreDescription id3v2)\n         :comment (.getComment id3v2)}\n        (do (println (str (.getAbsolutePath file) (.hasId3v1Tag mp3-file)))\n          {}))))\n  (catch Exception e (str (.getAbsolutePath file))))&quot;, :offset 565, :ns &quot;dicey.server&quot;} {:command &quot;(defn mp3-map [file]\n  (try\n    (let [mp3-file (Mp3File. (.getAbsolutePath file))]\n      (if-let [id3v2 (.getId3v2Tag mp3-file)]\n        {:track (.getTrack id3v2)\n         :artist (.getArtist id3v2)\n         :title (.getTitle id3v2)\n         :album (.getAlbum id3v2)\n         :year (.getYear id3v2)\n         :genre-id (.getGenre id3v2)\n         :genre (.getGenreDescription id3v2)\n         :comment (.getComment id3v2)}\n        (do (println (str (.getAbsolutePath file) (.hasId3v1Tag mp3-file)))\n          {})))\n    (catch Exception e (str (.getAbsolutePath file)))))&quot;, :offset 567, :ns &quot;dicey.server&quot;} {:command &quot;(count (music-files \&quot;/home/robbo/Music\&quot;))&quot;, :offset 41, :ns &quot;dicey.server&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure REPL.REPL for dicey">
+    <configuration name="REPL for dicey" type="ClojureREPL" factoryName="Local" temporary="true">
+      <setting name="replType" value="1" />
+      <module name="dicey" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Clojure REPL.REPL for dicey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63ba5b69-60c8-4542-868b-256c1fefbed3" name="Default" comment="" />
+      <created>1501635542664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501635542664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="404" y="0" width="1520" height="1090" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.46649316" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08321965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dicey/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dicey/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dicey/server.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="78" column="43" lean-forward="false" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/dicey_service.edn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-718">
+          <caret line="15" column="81" lean-forward="true" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
